@@ -1,4 +1,4 @@
-Netflix Movie Recommendation System Project
+#Netflix Movie Recommendation System Project
 
 This project focuses on building a recommendation system using collaborative filtering. Key aspects include:
 
